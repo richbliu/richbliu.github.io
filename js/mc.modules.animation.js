@@ -1,5 +1,5 @@
  /* start GENERAL CUSTOMIZATION PROPERTIES */
-var templateBaseURL         = "rbliu.com";/*"http://themes.mediacreed.com/html/synergy/"*/ 
+var templateBaseURL         = "http://www.rbliu.com";/*"http://themes.mediacreed.com/html/synergy/"*/ 
 var themeColor              = "#098bc7";
 var menuActive              = true;
 var menuHoverActive         = true; /* it will change to false if menuActive == true. If 'menuActive' 
